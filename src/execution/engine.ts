@@ -1,6 +1,9 @@
 /**
  * AI Skill Engineer - Execution Engine
  *
+ * Copyright (c) 2026 Nooshith
+ * MIT License - see LICENSE file for details
+ *
  * Executes skills in dependency order with parallelization support.
  */
 

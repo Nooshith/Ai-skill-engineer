@@ -1,6 +1,9 @@
 /**
  * AI Skill Engineer - Storage Implementations
  *
+ * Copyright (c) 2026 Nooshith
+ * MIT License - see LICENSE file for details
+ *
  * Provides file-system based implementations for ArtifactStore and StateStore.
  */
 

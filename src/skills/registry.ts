@@ -1,6 +1,9 @@
 /**
  * AI Skill Engineer - Skill Registry
  *
+ * Copyright (c) 2026 Nooshith
+ * MIT License - see LICENSE file for details
+ *
  * Manages skill discovery, registration, and retrieval.
  */
 

@@ -1,0 +1,11 @@
+# Default owners
+* @Nooshith
+
+# Source code
+/src/ @Nooshith
+
+# GitHub configuration
+.github/ @Nooshith
+
+# Documentation
+*.md @Nooshith
